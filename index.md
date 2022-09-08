@@ -6,3 +6,7 @@
 ```
 $ git init
 ```
+
+- [x] Apple
+- [x] Banana
+- [ ] Chocolate
